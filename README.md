@@ -9,7 +9,7 @@ Businesses generate thousands of sales transactions every day, but raw data alon
 
 In this project, I analyzed the Superstore Sales Dataset containing 9,994 sales records and transformed raw transactional data into meaningful business insights.
 
-The project follows a complete data analytics workflow from data cleaning and feature engineering in Python, business analysis in MySQL, and finally building an interactive Power BI dashboard to present insights in a clear and business friendly format.
+The project follows a complete data analytics workflow from data cleaning and feature engineering in Python, business analysis in MySQL, and finally building an interactive Power BI dashboard to present insights in a clear and business-friendly format.
 
 
 #  Business Problem
