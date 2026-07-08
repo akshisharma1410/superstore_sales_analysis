@@ -177,23 +177,15 @@ Based on the analysis, the following recommendations could help improve business
 
 #  Project Workflow
 
-Raw Kaggle Dataset
-        │
-        ▼
-Python (Pandas)
-Data Cleaning & Feature Engineering
-        │
-        ▼
-SQLAlchemy
-Export Clean Data to MySQL
-        │
-        ▼
-MySQL
-Business Analysis
-        │
-        ▼
-Power BI
-Interactive Dashboard & Business Insights
+-Raw Kaggle Dataset
+-Python (Pandas)
+ Data Cleaning & Feature Engineering
+-SQLAlchemy
+ Export Clean Data to MySQL
+-MySQL
+ Business Analysis
+-Power BI
+ Interactive Dashboard & Business Insights
 
 
 #  Repository Structure
