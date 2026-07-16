@@ -86,8 +86,47 @@ Profitability was concentrated in a few high-performing states.
 
 Business Recommendations:
 
-Increase focus on high-performing products and categories through better inventory planning.
-Review loss-making products to identify pricing, quality, or discount related issues.
-Strengthen relationships with high-value customers while reviewing customers that consistently generate losses.
-Apply successful sales strategies from high-performing states to improve performance in lower-performing regions.
-Continue monitoring shipping performance to improve operational efficiency and customer satisfaction.
+- The Consumer segment generated the highest revenue and profit.
+- A small number of products contributed a significant share of total revenue.
+- Standard Shipping accounted for the majority of sales.
+- Profitability was concentrated in a few high-performing states.
+- A small number of customers consistently generated losses, indicating opportunities to review pricing and discount strategies.
+
+Based on the analysis, the following recommendations could help improve business performance:
+
+- Increase focus on high-performing products and categories through better inventory planning and targeted marketing.
+- Review loss-making products to identify pricing, procurement, quality, or discount-related issues.
+- Strengthen relationships with high-value customers while reviewing customers that consistently generate losses.
+- Apply successful sales strategies from high-performing states to improve performance in lower-performing regions.
+- Continue monitoring shipping performance to improve operational efficiency and customer satisfaction.
+
+#  Project Workflow
+
+-Raw Kaggle Dataset
+-Python (Pandas)
+ Data Cleaning & Feature Engineering
+-SQLAlchemy
+ Export Clean Data to MySQL
+-MySQL
+ Business Analysis
+-Power BI
+ Interactive Dashboard & Business Insights
+
+
+#  Repository Structure
+
+superstore-sales-analytics/
+│
+├── python_analysis.ipynb
+├── sql_analysis.sql
+├── powerbi_dashboard.pbix
+├── dashboard_images/
+├── dataset/
+└── README.md
+
+
+#  About This Project
+
+This project was developed as part of my data analytics portfolio to demonstrate practical skills in Python, SQL, and Power BI by solving business problems using transactional sales data.
+
+It showcases the complete analytics workflow—from preparing raw data and writing SQL queries to designing an interactive dashboard that communicates insights in a business-friendly manner.
